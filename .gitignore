@@ -1,0 +1,16 @@
+
+.DS_Store
+*.pyc
+
+.idea
+*.iml
+target
+
+.classpath
+.settings
+.project
+
+.metadata
+
+node_modules
+
